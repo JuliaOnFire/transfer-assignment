@@ -1,3 +1,4 @@
 =Strengths=
+* tracking history 
 
 =Weaknesses=
